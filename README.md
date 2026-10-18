@@ -20,7 +20,7 @@ A therapeutic PC simulation for treating anxiety, using controlled daily-life en
 [https://yarinkash1.itch.io/serenity-shift-pc-final-build-v12](https://yarinkash1.itch.io/serenity-shift-pc-demo-v1)
 
 **Windows Version(Downloadable):**  
-https://drive.google.com/file/d/1ck8cyvmC8psE4JHW_wNeD4OEhnAAZcQz/view?usp=sharing
+[https://drive.google.com/file/d/1ck8cyvmC8psE4JHW_wNeD4OEhnAAZcQz/view?usp=sharing](https://drive.google.com/file/d/119jpaqhkMpIGuG73YSGnBhtaw-GMMRed/view?usp=sharing)
 
 ## Licenses & Attribution
 
